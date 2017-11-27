@@ -1,3 +1,2 @@
-# hello-world
-study github
-Make a call for git.
+# GitHub Pages.
+Use it as my blog.
